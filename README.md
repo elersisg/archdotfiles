@@ -8,7 +8,7 @@
 ![General view](previews/main.png)
 
 ## Workflow
-![Workflow Preview](previews/workflow.png)
+![Workflow Preview](previews/workflow1.png)
 
 ---
 
