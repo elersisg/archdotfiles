@@ -1,0 +1,12 @@
+/* Gruvbox Color Scheme */
+* {
+    background:      #282828;   /* bg */
+    background-alt:  #3c3836;   /* bg2 */
+    foreground:      #ebdbb2;   /* fg */
+    selected:        #fe8019;   /* naranja */
+    active:          #d79921;   /* amarillo */
+    urgent:          #cc241d;   /* rojo */
+    border-color:    #fe8019;   /* naranja */
+    handle-color:    #fe8019;   /* naranja */
+}
+

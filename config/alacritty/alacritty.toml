@@ -1,0 +1,2 @@
+[general]
+import = ["/home/gabrielg/.config/alacritty/gruvbox.toml"]
