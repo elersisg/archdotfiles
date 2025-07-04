@@ -1,4 +1,4 @@
-# Dotfiles – Arch + BSPWM Setup
+# Dotfiles – Arch + BSPWM Setup (WIP)
 
 <p>This repository contains the minimal but functional custom configuration I use in my Arch Linux environment with [BSPWM] as the window manager. It includes minimalist and efficient tools for daily productivity, development, and full system control from the keyboard. </p>
 ---
