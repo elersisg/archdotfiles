@@ -1,0 +1,6 @@
+[General]
+theme=Gruvbox
+
+[Applications]
+Default=Dolphin, Vim
+Gruvbox=Vim, Dolphin
