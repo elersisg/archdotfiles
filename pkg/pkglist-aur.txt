@@ -1,0 +1,13 @@
+brave-bin
+deadd-notification-center-bin
+glava
+gruvbox-material-gtk-theme-git
+kvantum-theme-gruvbox-git
+kwalletcli
+lens-bin
+logseq-desktop-bin
+optimus-manager-git
+pipes.sh
+visual-studio-code-bin
+yay
+yay-debug
