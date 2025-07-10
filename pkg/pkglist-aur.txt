@@ -6,7 +6,6 @@ kvantum-theme-gruvbox-git
 kwalletcli
 lens-bin
 logseq-desktop-bin
-optimus-manager-git
 pipes.sh
 visual-studio-code-bin
 yay
