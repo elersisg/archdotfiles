@@ -1,4 +1,4 @@
-# Ocultar particiones Windows
+# Hide windows partitions (Change according to your disks, check their name using lsblk -f)
 ENV{ID_FS_UUID}=="2852-0471", ENV{UDISKS_IGNORE}="1"
 ENV{ID_FS_UUID}=="E3215948BD55744B", ENV{UDISKS_IGNORE}="1"
 ENV{ID_FS_UUID}=="860017B223DF84E7", ENV{UDISKS_IGNORE}="1"
